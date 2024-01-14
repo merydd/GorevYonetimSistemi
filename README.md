@@ -21,7 +21,7 @@ Bu işlemler: görev ekle, görev çıkar, görevleri listele, tamamlanmış iş
 ## Projenin Mimari Diyagramı
 ![algoritmasema](https://github.com/merydd/GorevYonetimSistemi/assets/132394236/ae7e4da1-e8a0-401a-9702-9eb2cb5747bf)
 
-## Projenin Ekran Görüntüleri
+## Projenin Ekran Görüntüleri ve kullanım senaryoları
 
 Giriş Ekranı:
 
@@ -62,3 +62,8 @@ Klasörler:
 -Klasöre görev eklememek:
 
 ![folderataskekleme](https://github.com/merydd/GorevYonetimSistemi/assets/132394236/6f57395e-2ceb-4a48-9396-6227ade7b8cc)
+
+**Özgün katkılar
+Özgünlük olarak klasörün içine görev atma seçeneğini ve 'tamamlandı olarak işaretle' işlemini yapınca listeden silinmesi işlemini ekledim. 
+
+
